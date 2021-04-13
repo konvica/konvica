@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Please visit my resume
-[konvica.github.io/resume.pdf](https://konvica.github.io/resume.pdf)
+Please visit my site
+[konvica.github.io](https://konvica.github.io)
 
 <!--
 **konvica/konvica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
